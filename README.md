@@ -41,6 +41,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -66,4 +67,8 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
