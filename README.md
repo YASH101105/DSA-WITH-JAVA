@@ -12,6 +12,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0234-palindrome-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -35,4 +37,20 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
