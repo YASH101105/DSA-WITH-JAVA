@@ -30,6 +30,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0445-add-two-numbers-ii) |
@@ -49,6 +50,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -87,4 +89,8 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
