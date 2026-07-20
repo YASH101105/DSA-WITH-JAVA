@@ -54,6 +54,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
@@ -73,6 +74,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -103,4 +105,8 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
