@@ -57,6 +57,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0004-median-of-two-sorted-arrays](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0303-range-sum-query-immutable](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
@@ -64,6 +65,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -114,6 +116,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
