@@ -58,6 +58,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
 | ------- |
@@ -109,4 +110,8 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
