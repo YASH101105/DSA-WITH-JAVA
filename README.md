@@ -127,4 +127,20 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
