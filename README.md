@@ -136,16 +136,20 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
