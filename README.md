@@ -39,6 +39,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0445-add-two-numbers-ii) |
@@ -140,11 +141,13 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -155,6 +158,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 ## Sorting
