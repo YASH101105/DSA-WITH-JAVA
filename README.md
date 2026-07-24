@@ -33,6 +33,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0234-palindrome-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [3884-first-matching-character-from-both-ends](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0680-valid-palindrome-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Queue
 |  |
 | ------- |
