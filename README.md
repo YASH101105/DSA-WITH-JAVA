@@ -60,6 +60,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | ------- |
 | [0002-add-two-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0445-add-two-numbers-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +174,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Quickselect
 |  |
 | ------- |
