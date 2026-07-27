@@ -72,6 +72,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0303-range-sum-query-immutable](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
@@ -100,6 +101,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -184,6 +186,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Quickselect
 |  |
