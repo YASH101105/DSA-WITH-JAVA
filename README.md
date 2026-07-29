@@ -29,6 +29,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -69,6 +70,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -188,6 +190,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
