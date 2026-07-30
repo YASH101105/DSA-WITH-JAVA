@@ -85,6 +85,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
 ## Design
 |  |
@@ -209,6 +210,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | ------- |
 | [0048-rotate-image](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Bit Manipulation
 |  |
 | ------- |
