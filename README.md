@@ -63,6 +63,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -74,6 +75,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0015-3sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0303-range-sum-query-immutable) |
@@ -205,6 +207,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
