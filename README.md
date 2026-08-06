@@ -177,6 +177,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0145-binary-tree-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -193,6 +194,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0145-binary-tree-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -226,6 +228,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0145-binary-tree-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
 ## Sorting
@@ -255,4 +258,8 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
