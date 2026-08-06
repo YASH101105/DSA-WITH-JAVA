@@ -14,22 +14,28 @@
  * }
  */
 class Solution {
-    public boolean symmetric(TreeNode p , TreeNode q){
-        if(p==null&&q==null){
-            return true;
-        }
-        if(p==null||q==null){
-            return false;
-        }
-        if(p.val!=q.val){
-            return false;
-        }
-         return symmetric(p.left , q.right) && symmetric(p.right,q.left);
-    }
     public boolean isSymmetric(TreeNode root) {
-if(root==null){
-    return true;
-}
-return symmetric(root.left , root.right);
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root.left);
+        queue.add(root.right);
+        while(!queue.isEmpty()){
+            TreeNode left = queue.poll();
+             TreeNode right = queue.poll();
+             if(left==null && right ==null){
+                continue;
+             }
+             if(left==null || right ==null){
+                return false;
+             }
+             if(left.val!=right.val){
+                return false;
+             }
+             queue.add(left.left);
+             queue.add(right.right);
+             queue.add(left.right);
+             queue.add(right.left);
+
+        }
+        return true;
     }
 }
