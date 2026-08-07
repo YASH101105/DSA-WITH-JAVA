@@ -181,6 +181,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +200,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +216,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0513-find-bottom-left-tree-value](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -235,6 +238,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Sorting
 |  |
 | ------- |
