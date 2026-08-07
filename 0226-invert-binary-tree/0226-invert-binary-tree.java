@@ -20,6 +20,7 @@ class Solution {
         }
         TreeNode left = invertTree(root.left);
         TreeNode right = invertTree(root.right);
+        //here we are swapping the nodes 
         root.left = right;
         root.right = left;
         return root;
