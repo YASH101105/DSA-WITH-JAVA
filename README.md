@@ -28,6 +28,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -84,6 +85,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0048-rotate-image](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0303-range-sum-query-immutable) |
@@ -116,6 +118,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0004-median-of-two-sorted-arrays](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -180,6 +183,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0110-balanced-binary-tree) |
@@ -257,6 +261,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0110-balanced-binary-tree) |
