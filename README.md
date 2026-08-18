@@ -187,6 +187,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -214,6 +215,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0101-symmetric-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -240,6 +242,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0102-binary-tree-level-order-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -265,6 +268,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
