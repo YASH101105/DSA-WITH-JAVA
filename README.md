@@ -57,6 +57,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0234-palindrome-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0496-next-greater-element-i) |
+| [0897-increasing-order-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1472-design-browser-history](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1472-design-browser-history) |
 ## Recursion
@@ -206,6 +207,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0513-find-bottom-left-tree-value](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -234,6 +236,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0513-find-bottom-left-tree-value](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -289,6 +292,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0513-find-bottom-left-tree-value](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0993-cousins-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Sorting
@@ -321,6 +325,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0897-increasing-order-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
