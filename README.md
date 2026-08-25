@@ -32,6 +32,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0160-intersection-of-two-linked-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [1582-special-positions-in-a-binary-matrix](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
 | ------- |
