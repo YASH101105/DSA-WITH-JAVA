@@ -102,6 +102,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [1582-special-positions-in-a-binary-matrix](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
@@ -166,6 +167,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3074-apple-redistribution-into-boxes](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
@@ -318,6 +320,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0215-kth-largest-element-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 ## Quickselect
 |  |
