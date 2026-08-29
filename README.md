@@ -11,6 +11,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0023-merge-k-sorted-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -40,6 +41,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0018-4sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0680-valid-palindrome-ii) |
