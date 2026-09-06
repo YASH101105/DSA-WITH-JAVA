@@ -105,6 +105,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
