@@ -80,6 +80,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [3370-smallest-number-with-all-set-bits](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
