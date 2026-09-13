@@ -154,6 +154,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0551-student-attendance-record-i](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
