@@ -159,6 +159,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 | [0680-valid-palindrome-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1796-second-largest-digit-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Queue
 |  |
@@ -189,6 +190,7 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
