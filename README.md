@@ -148,12 +148,14 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0113-path-sum-ii) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0551-student-attendance-record-i](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0680-valid-palindrome-ii) |
@@ -378,6 +380,11 @@ THIS IS THE REPO IN WHICH I WILL STORE ALL THE DSA CONCEPTS I WILL TRY IN MY INT
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/YASH101105/DSA-WITH-JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
